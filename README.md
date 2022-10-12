@@ -2,10 +2,10 @@
 <h2 align="center"> Hi there, I'm Ali 👋 </h2>
 
 <h3 align="center"> 
-I am  an open source lover, a fronted developer, a I'm a new blogger on  <a href="https://medium.com/@ali-bakir" target="_blank">medium</a>.
+I am an open source enthusiast, a fronted developer, and a <a href="https://medium.com/@ali-bakir" target="_blank">medium</a> blogger.
  </h3>
 
->  I completed my undergraduate education in landscape architecture. In 2020, I started studying management information systems. I am developing myself in the field of fronted developer.
+>   I began studying management information systems in 2020. I am cultivating my skills as a fronted developer.
 <br />
 
 <p align="center">
