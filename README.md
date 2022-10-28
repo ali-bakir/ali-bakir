@@ -45,10 +45,8 @@ I am an open source enthusiast, a fronted developer, and a <a href="https://medi
   
 <br />
 <br />
-
- <a href="https://twitter.com/reppocila" target="blank"><img src="https://img.shields.io/twitter/follow/reppocila?logo=twitter&style=for-the-badge" target="_blank" alt="reppocila" /></a> 
  
-  [![GitHub followers](https://img.shields.io/github/followers/ali-bakir?logo=GitHub&style=for-the-badge)](https://github.com/ali-bakir)  &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/ali-bakir?logo=github&style=for-the-badge)](https://github.com/ali-bakir) &nbsp; 
+  [![GitHub followers](https://img.shields.io/github/followers/ali-bakir?logo=GitHub&style=for-the-badge)](https://github.com/ali-bakir)  
 
  </div>
 
